@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-17 18:57:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-19 19:07:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -517,9 +517,9 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8$订阅源
+广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
+广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8$订阅源
-广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
-广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
 
 ☘️天津频道,#genre#
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
@@ -529,8 +529,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660$订阅源
-松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd$订阅源
-松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd$订阅源
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw$订阅源
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8$订阅源
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8$订阅源
@@ -650,7 +648,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 ☘️云南频道,#genre#
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8$订阅源
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8$订阅源
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund$订阅源
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund$订阅源
 
 ☘️青海频道,#genre#
@@ -685,28 +682,28 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 🌊港·澳·台,#genre#
 翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8$订阅源
 翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/$订阅源
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$订阅源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct$订阅源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$订阅源
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn$订阅源
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2$订阅源
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
 明珠台,http://php.jdshipin.com/smt.php?id=pearl_twn$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$订阅源
-明珠台,https://live.catvod.com/iptv.php?id=mztsub&token=d98f532aded8a74e4e96f19b9e2b23448d4b7b68490aaf6ed1c33fd658b2342a%3A1764897761%3AMTcyLjE4My45MS4zMg%3D%3D$订阅源
-明珠台,https://live.catvod.com/iptv.php?id=mztsub&token=71729e09c79cd7793f072ff812c1d842270d79d0eb5fca02caa0d41fdaeeafe2%3A1765071579%3ANC4yMzYuMTczLjE2MQ%3D%3D$订阅源
-明珠台,https://live.catvod.com/iptv.php?id=mztsub&token=dd877ec5a2309d529be7aaa1492c475ea82d6958d2dba778de85b58f92300935%3A1765243433%3AMTcyLjIxNS4yMTAuNTI%3D$订阅源
-明珠台,https://live.catvod.com/iptv.php?id=mztsub&token=e5b1bfb956aefef45efc57bab19ce4e3aaff6d65eed365d543d15df8109c0a93%3A1765416382%3AMTQ1LjEzMi45OS4yMQ%3D%3D$订阅源
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
+明珠台,http://hls.168.us.kg/u/84/master.m3u8$订阅源
+明珠台,http://hls.168.us.kg/u/84/master.m3u8$订阅源
+明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php$订阅源
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx$订阅源
@@ -721,8 +718,8 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$订阅源
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$订阅源
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2$订阅源
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$订阅源
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
@@ -730,14 +727,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8$订阅源
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8$订阅源
-纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandmax&token=d6d84c2a31e9094a5478d5d376177e7859090faf183ada5b1cf997ccd5d9df5a%3A1758241876$订阅源
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=fe5d6c1a6329ce8ba25d86d34ce097a5e62e5c9607f3492bd98e2512fed69ebe%3A1760491003%3ANTIuMTUwLjI5Ljk4$订阅源
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=29d66f02bb445a2069a8f31cbb216cf3f2cbf9de61528e66d4c52126be7431e7%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D$订阅源
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=13816ef04b78d5335d687b59ecfb099066cc0ce5f95f41311cd479d8e9a899c7%3A1761268460%3AMTcyLjIwMC4xODMuMjQx$订阅源
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=bdbdf4f6c60a734f7d4e9d5df9b0560eda167e4ab02bb2ca0d69fc48d5976284%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D$订阅源
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=e36fcda3f4b7e8b5909afdfb1f84325efd61edc43f87499f92b5ce17f8583f78%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D$订阅源
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=b45857f13f327dfeb8bae56b4e57254724632a9dc695b025d10ed594d7522bf2%3A1763687928%3AMTcyLjIxMi4xNjcuODY%3D$订阅源
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=ec460f815672d0b5c74d33197f85b948cf16ecd7cb0bd7ab7811585cb6107f32%3A1763861916%3AMTcyLjE4My45NS4xNDc%3D$订阅源
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源
@@ -763,36 +752,16 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1$订阅源
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073$订阅源
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
-纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie$订阅源
-纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=a76bdc035b650a1c05ec1f7fb9f26ae2f5af7dd30a77937811b00e06d85b6954%3A1760491003%3ANTIuMTUwLjI5Ljk4$订阅源
-纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=17ef07868e4ebb451a4fda023e2dc9a5a01341f7bde0dc6f0eb4f30f8aec0da3%3A1763687928%3AMTcyLjIxMi4xNjcuODY%3D$订阅源
-纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=d1a577f638cc7be230a3f0c2c4e1d8afaad8e63001e3c29d9695cad0b99b202f%3A1763861916%3AMTcyLjE4My45NS4xNDc%3D$订阅源
-纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=5f295e17f3ac939cbc0a3e2f31c663d69689c9286e6a7e05c38bef4757046ed3%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D$订阅源
-纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=4621180ea0b2bf38b0ecf9e04ed8ca230f9507d50afc5a3c2006dcc30da6dd72%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D$订阅源
-纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=9ff8351fcc90278517d76a8b677a17a2e92800b77be1e2b5661260a15e1d14a5%3A1764379082%3AMTM1LjExOS4yMzYuNTE%3D$订阅源
-纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=fdbbc409059470b0ff7f2babd57e415b0e6f871e51848bd19d11d312063b703f%3A1764553503%3AMTcyLjE4NC4yMTMuMjI1$订阅源
-天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$订阅源
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2$订阅源
-天映经典,https://live.catvod.com/live.php?id=Celestial2&token=75648996c752c53e0bed7d6c1a3533696fd3abe25bff5871b4f18b3a1df5b983%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D$订阅源
-天映经典,https://live.catvod.com/live.php?id=Celestial2&token=a5de9a202148711c44fc9d24a1c14b0fc8071fd66bcd49e85ccd4da4ce288548%3A1763687928%3AMTcyLjIxMi4xNjcuODY%3D$订阅源
-天映经典,https://live.catvod.com/live.php?id=Celestial2&token=03bf79b75d4e813e96b1f70595b87a6d7234ed6e2d1928c426ac4611598d7807%3A1763861916%3AMTcyLjE4My45NS4xNDc%3D$订阅源
-天映经典,https://live.catvod.com/live.php?id=Celestial2&token=ea0d62ba4654b1d6c691a13536553899eb9946d387f6b71c242d637ed45c953c%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D$订阅源
-天映经典,https://live.catvod.com/live.php?id=Celestial2&token=66020859f7c3e792408ff5999e952cb9af2ff3f6a16c7d6c7c1d25d013b788ae%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D$订阅源
+天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
+天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe$订阅源
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh$订阅源
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe$订阅源
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe$订阅源
 无线星河,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
-东森洋片,https://live.catvod.com/catvod_com.php?id=ettvwestern$订阅源
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=db68a5975c00457036c2ee06023e5d93b4c5269f73044bec1cbfb813b47bf10a%3A1760491003%3ANTIuMTUwLjI5Ljk4$订阅源
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=26c45d6636a1192c92dd36198e022f2af4d26b0204f907d6765bdfafcf964f04%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D$订阅源
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx$订阅源
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=c6d10f54d1fa33d7017efdffb760d6296477be9467578d6bccd6ee34f4c710b5%3A1763687928%3AMTcyLjIxMi4xNjcuODY%3D$订阅源
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=a6aea1b9ea625cc620532a6e890b8e423cd74fd3ec9f508167f46f1fcc7d66f0%3A1763861916%3AMTcyLjE4My45NS4xNDc%3D$订阅源
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=7cdbaa462fd81f4fca10eabe1bd7a776d5612cb2393f2d359042d97040ec5eb3%3A1764033616%3ANjQuMjM2LjE0MC4xNzc%3D$订阅源
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=4360df1c0b592a6f8b1a4455c0b22755227dc2c2d7468d8e463a712912ae263c%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D$订阅源
 
 🎥咪咕直播,#genre#
 
@@ -820,9 +789,9 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=4f1a9fcd002d1813b49
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8$订阅源
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8$订阅源
 五星体育,https://cdn3.163189.xyz/163189/wxty$订阅源
-五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
-五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2$订阅源
+五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
+五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008$订阅源
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$订阅源
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=05144ee4526abc2f6a8d44a41f9e078ef10c1a9f8930d51d7f453315d3577b613eac76898b1e0965789f7010cd3f8a1bca3167ef6e625cb77fc2c575eec35c8d07aaff61dc4b79f75fc67ef667$订阅源
@@ -851,9 +820,13 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=4f1a9fcd002d1813b49
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
+七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
+七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
+中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
+猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568$订阅源
@@ -876,4 +849,8 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=405252f2e3e9d074b85
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=d46236e1f679dad891142868b96821ba336ddefe3e4cddd4bd824a7fb0dcbbaba9234379f3c3e8769f05d127936a3a11f0963e0728476ac62f93a56a69dfed36453b0c3516a4ed541829283d46$订阅源
 
 🏛经典剧场,#genre#
+笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
+天龙八部,https://live.ottiptv.cc/huya/20985816$订阅源
+西游记,https://live.ottiptv.cc/huya/26355861$订阅源
+三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
