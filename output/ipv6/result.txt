@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-17 19:36:08,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2$订阅源
+2026-05-19 21:08:38,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2$订阅源
@@ -296,8 +296,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b3
 浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8$订阅源
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
-浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8$订阅源
-浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8$订阅源
 浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n$订阅源
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8$订阅源
@@ -432,8 +430,8 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b3
 陕西公共,http://ls.qingting.fm/live/1222.m3u8$订阅源
 
 ☘️福建频道,#genre#
-三明新闻综合,http://ls.qingting.fm/live/4885.m3u8$订阅源
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8$订阅源
+三明新闻综合,http://ls.qingting.fm/live/4885.m3u8$订阅源
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8$订阅源
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8$订阅源
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian$订阅源
@@ -450,7 +448,9 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b3
 洛阳文旅,http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8$订阅源
 
 ☘️河北频道,#genre#
-邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8$订阅源
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8$订阅源
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8$订阅源
+邯郸公共,https://jwcdnqx.hebyun.com.cn/zb/hdgg/1500k/tzwj_video.m3u8$订阅源
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8$订阅源
 邯郸科教,https://jwcdnqx.hebyun.com.cn/zb/hdkj/1500k/tzwj_video.m3u8$订阅源
 衡水公共,http://ls.qingting.fm/live/2810.m3u8$订阅源
@@ -458,8 +458,8 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b3
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8$订阅源
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8$订阅源
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$订阅源
-河北农民,http://ls.qingting.fm/live/1650.m3u8$订阅源
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8$订阅源
+河北农民,http://ls.qingting.fm/live/1650.m3u8$订阅源
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源
 昌黎综合,https://jwcdnqx.hebyun.com.cn/zb/clzhpd/1500k/tzwj_video.m3u8$订阅源
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源
@@ -495,6 +495,9 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b3
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
+长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
+长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
+阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
 
 ☘️安徽频道,#genre#
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd$订阅源
@@ -540,21 +543,24 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b3
 翡翠台,http://r.jdshipin.com/GeWKr$订阅源
 翡翠台,http://r.jdshipin.com/GeWKr$订阅源
 翡翠台,http://r.jdshipin.com/thuYX$订阅源
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/jUx8K$订阅源
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
-凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8$订阅源
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源
+凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8$订阅源
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
@@ -583,8 +589,10 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858$订阅源
 靖天戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858$订阅源
 天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
+天映经典,http://o11.163189.xyz/stream/live/ccm/$订阅源
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
+无线星河,https://cdn6.163189.xyz/163189/tvbxh$订阅源
 
 🎥咪咕直播,#genre#
 
@@ -629,15 +637,15 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=04826a9d5cfc1d3166d
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
-七龙珠,https://live.metshop.top/huya/11601966$订阅源
-七龙珠,https://live.metshop.top/huya/11601966$订阅源
 七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
 七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
-中华小当家,https://live.metshop.top/huya/11342413$订阅源
 中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
-猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
 猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
@@ -658,22 +666,23 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=d46236e1f679dad8911
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ee38b8619145f920f3057bfbbc790828a4d51d67a79f52f79c1fa162a2a610b8e7199e0c05adcf877ec32f76cbcdfb12a9ff0cda28e8fcdce6ae41915cffa29d479c4d508f5dbea03e4826d203$订阅源
 
 🏛经典剧场,#genre#
-笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
-笑傲江湖,https://live.metshop.top/huya/23865142$订阅源
 笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
 笑傲江湖,https://live.ottiptv.cc/huya/23865142$订阅源
-天龙八部,https://live.metshop.top/huya/23903123$订阅源
-天龙八部,https://live.metshop.top/huya/20985816$订阅源
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
+笑傲江湖,https://live.metshop.top/huya/23865142$订阅源
 天龙八部,https://live.ottiptv.cc/huya/20985816$订阅源
 天龙八部,https://live.ottiptv.cc/yy/1351814644$订阅源
+天龙八部,https://live.metshop.top/huya/23903123$订阅源
+天龙八部,https://live.metshop.top/huya/20985816$订阅源
 鹿鼎记,https://live.ottiptv.cc/yy/28265277$订阅源
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
-西游记,https://live.metshop.top/huya/26355861$订阅源
 西游记,https://live.ottiptv.cc/huya/26355861$订阅源
-三国演义,https://live.metshop.top/huya/11602081$订阅源
+西游记,https://live.metshop.top/huya/26355861$订阅源
 三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
+三国演义,https://live.metshop.top/huya/11602081$订阅源
+水浒传,https://live.ottiptv.cc/yy/1353873252$订阅源
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667$订阅源
-封神榜,https://live.metshop.top/huya/29465849$订阅源
 封神榜,https://live.ottiptv.cc/huya/29465849$订阅源
-射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
+封神榜,https://live.metshop.top/huya/29465849$订阅源
 射雕英雄传,https://live.ottiptv.cc/huya/23824164$订阅源
+射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
